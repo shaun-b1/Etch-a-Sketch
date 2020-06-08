@@ -27,7 +27,17 @@ h1 {
   justify-content: center;
 }
 
-.blanksquare {
+#gameBoard2 {
+  margin: 9px auto 0;
+  border: 5px solid black;
+  border-radius: 5px;
+  display: grid;
+  height: 85%;
+  width: 90%;
+  justify-content: center;
+}
+
+.whitesquare {
   background: white;
   border: 1px solid black;
 }
